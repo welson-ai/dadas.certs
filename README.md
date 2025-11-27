@@ -1,54 +1,33 @@
-DadaDevs Certificate System (Bitcoin
-Dada)
-Live Demo: https://dadadevs-certs.vercel.app/
-GitHub Repository: https://github.com/welson-ai/dadadevs-certs
+DadaDevs Certificate System (Bitcoin Dada) 
 
-Project Overview
-Bitcoin Dada & DadaDevs issue physical certificates. Physical certificates can be forged or
-altered. This project provides a digital certificate signature system that:
-Prevents forgery
-Allows anyone to verify authenticity
-Is easy for the team to use
-This is the MVP (Minimum Viable Product) version.
+ Live Demo: https://dadas-certs.vercel.app/  
 
-Features
-Issue digital certificates
-Verify authenticity via cryptographic signatures
-Deployable on the Scroll network
-Lightweight and user-friendly
+GitHub Repository:  
 
-Tech Stack (v0)
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express
-Blockchain Integration: Scroll network (for signature verification)
-Version Control: Git & GitHub
+https://github.com/welson-ai/dadas.certs 
 
-Hosting: Vercel
+Project Overview Bitcoin Dada & DadaDevs issue physical certificates. Physical certificates can be forged or altered. This project provides a digital certificate signature system that: Prevents forgery Allows anyone to verify authenticity Is easy for the team to use This is the MVP (Minimum Viable Product) version. 
 
-Folder Structure
-dada-devs-certificate-system/
-├─ package.json
-├─ server.js
-├─ publish-nostr.js
-├─ README.md
-├─ public/
-│ ├─ index.html
-│ ├─ app.js
-│ └─ styles.css
-└─ .gitignore
+Features Issue digital certificates Verify authenticity via cryptographic signatures Deployable on the Scroll network Lightweight and user-friendly 
 
-Setup Instructions
-Clone the repository:
-git clone https://github.com/welson-ai/dadadevs-certs.git
+Tech Stack (v0) Frontend: HTML, CSS, JavaScript Backend: Node.js, Express Blockchain Integration: Scroll network (for signature verification) Version Control: Git & GitHub 
 
-Install dependencies:
-npm install
+Hosting: Vercel 
 
-Start the server:
-node server.js
+Folder Structure dada-devs-certificate-system/ ├─ package.json ├─ server.js ├─ publish-nostr.js ├─ README.md ├─ public/ │ ├─ index.html │ ├─ app.js │ └─ styles.css └─ .gitignore 
 
-Open your browser at http://localhost:3000
+Setup Instructions Clone the repository: git clone 
 
-Usage
-Access the live demo: https://dadadevs-certs.vercel.app/
-Issue and verify certificates seamlessly
+https://github.com/welson-ai/dadas.certs 
+
+Install dependencies: npm install 
+
+Start the server: node server.js 
+
+Open your browser at http://localhost:3000 
+
+Usage Access the live demo: https://dadas-certs.vercel.app/  
+
+ Issue and verify certificates seamlessly 
+
+ 
