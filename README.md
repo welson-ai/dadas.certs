@@ -6,11 +6,21 @@ GitHub Repository:
 
 https://github.com/welson-ai/dadas.certs 
 
-Project Overview Bitcoin Dada & DadaDevs issue physical certificates. Physical certificates can be forged or altered. This project provides a digital certificate signature system that: Prevents forgery Allows anyone to verify authenticity Is easy for the team to use This is the MVP (Minimum Viable Product) version. 
+Project Overview  
 
-Features Issue digital certificates Verify authenticity via cryptographic signatures Deployable on the Scroll network Lightweight and user-friendly 
+Bitcoin Dada & DadaDevs issue physical certificates. Physical certificates can be forged or altered. This project provides a digital certificate signature system that: Prevents forgery Allows anyone to verify authenticity Is easy for the team to use This is the MVP (Minimum Viable Product) version. 
 
-Tech Stack (v0) Frontend: HTML, CSS, JavaScript Backend: Node.js, Express Blockchain Integration: Scroll network (for signature verification) Version Control: Git & GitHub 
+Features 
+
+ Issue digital certificates 
+
+ Verify authenticity via cryptographic signatures  
+
+ Lightweight and user-friendly 
+
+Tech Stack (v0) Frontend:  
+
+HTML, CSS, JavaScript Backend: Node.js, Express Blockchain Integration:  (for signature verification) Version Control: Git & GitHub 
 
 Hosting: Vercel 
 
