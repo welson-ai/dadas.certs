@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "DadaDevs Certificate System - Digital Signature Platform",
   description:
     "Cryptographically signed digital certificates for Bitcoin Dada & DadaDevs. Secure, verifiable, and tamper-proof certificate issuance and verification system.",
-  generator: "v0.app",
+  
   icons: {
     icon: [
       {
